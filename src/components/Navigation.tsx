@@ -18,13 +18,14 @@ export function Navigation({ about, contact, home }: Props) {
                     <div className="collapse navbar-collapse" id="navbarSupportedContent">
                         <ul className="navbar-nav ms-auto mb-2 mb-lg-0">
                             <li className="nav-item"><a className="nav-link" href="/">{home}</a></li>
-                            <li className="nav-item"><a className="nav-link" href="#">{about}</a></li>
-                            <li className="nav-item"><a className="nav-link" href="#">{contact}</a></li>
+                            <li className="nav-item"><a className="nav-link" href="/about">{about}</a></li>
+                            <li className="nav-item"><a className="nav-link" href="/contact">{contact}</a></li>
                         </ul>
                     </div>
+                    
                 </div>
             </nav>
         </div>
-            
+
     );
 }
