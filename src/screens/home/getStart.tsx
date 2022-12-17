@@ -17,7 +17,7 @@ export default function GetStart() {
                             </div>
                         </div>
                         <div className="col-xl-5 col-xxl-6 d-none d-xl-block text-center">
-                            <Image src={"/getStart.png"} alt={""} width={600} height={400} className="img-fluid rounded-3 my-5" />
+                            <Image src={"/600x400.png"} alt={""} width={600} height={400} className="img-fluid rounded-3 my-5" />
                         </div>
                     </div>
                 </div>

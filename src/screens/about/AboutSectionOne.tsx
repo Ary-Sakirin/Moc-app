@@ -6,7 +6,7 @@ export default function AboutSectionOne() {
                 <div className="container px-5 my-5">
                     <div className="row gx-5 align-items-center">
                         <div className="col-lg-6">
-                            <Image className="img-fluid rounded mb-5 mb-lg-0" src={"/getStart.png"} alt={""} width={600} height={400} />
+                            <Image className="img-fluid rounded mb-5 mb-lg-0" src={"/600x400.png"} alt={""} width={600} height={400} />
                         </div>
                         <div className="col-lg-6">
                             <h2 className="fw-bolder">Our founding</h2>

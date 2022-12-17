@@ -17,7 +17,7 @@ export default function Blog() {
                     <div className="row gx-5">
                         <div className="col-lg-4 mb-5">
                             <div className="card h-100 shadow border-0">
-                                <Image src={"/blogpf.png"} alt={""} width={600} height={250} className="card-img-top" />
+                                <Image src={"/600x350.png"} alt={""} width={600} height={250} className="card-img-top" />
                                 <div className="card-body p-4">
                                     <div className="badge bg-primary bg-gradient rounded-pill mb-2">News</div>
                                     <a className="text-decoration-none link-dark stretched-link" href="#!"><h5 className="card-title mb-3">Blog post title</h5></a>
@@ -26,7 +26,7 @@ export default function Blog() {
                                 <div className="card-footer p-4 pt-0 bg-transparent border-top-0">
                                     <div className="d-flex align-items-end justify-content-between">
                                         <div className="d-flex align-items-center">
-                                            <Image src={"/testimonialprofile.png"} alt={""} width={40} height={40} className="rounded-circle me-3" />
+                                            <Image src={"/40x40.png"} alt={""} width={40} height={40} className="rounded-circle me-3" />
                                             <div className="small">
                                                 <div className="fw-bold">Kelly Rowan</div>
                                                 <div className="text-muted">March 12, 2022 · 6 min read</div>
@@ -38,7 +38,7 @@ export default function Blog() {
                         </div>
                         <div className="col-lg-4 mb-5">
                             <div className="card h-100 shadow border-0">
-                                <Image src={"/blogpf.png"} alt={""} width={600} height={250} className="card-img-top" />
+                                <Image src={"/600x350.png"} alt={""} width={600} height={250} className="card-img-top" />
                                 <div className="card-body p-4">
                                     <div className="badge bg-primary bg-gradient rounded-pill mb-2">Media</div>
                                     <a className="text-decoration-none link-dark stretched-link" href="#!"><h5 className="card-title mb-3">Another blog post title</h5></a>
@@ -47,7 +47,7 @@ export default function Blog() {
                                 <div className="card-footer p-4 pt-0 bg-transparent border-top-0">
                                     <div className="d-flex align-items-end justify-content-between">
                                         <div className="d-flex align-items-center">
-                                            <Image src={"/testimonialprofile.png"} alt={""} width={40} height={40} className="rounded-circle me-3" />
+                                            <Image src={"/40x40.png"} alt={""} width={40} height={40} className="rounded-circle me-3" />
                                             <div className="small">
                                                 <div className="fw-bold">Josiah Barclay</div>
                                                 <div className="text-muted">March 23, 2022 · 4 min read</div>
@@ -59,7 +59,7 @@ export default function Blog() {
                         </div>
                         <div className="col-lg-4 mb-5">
                             <div className="card h-100 shadow border-0">
-                                <Image src={"/blogpf.png"} alt={""} width={600} height={250} className="card-img-top" />
+                                <Image src={"/600x350.png"} alt={""} width={600} height={250} className="card-img-top" />
                                 <div className="card-body p-4">
                                     <div className="badge bg-primary bg-gradient rounded-pill mb-2">News</div>
                                     <a className="text-decoration-none link-dark stretched-link" href="#!"><h5 className="card-title mb-3">The last blog post title is a little bit longer than the others</h5></a>
@@ -68,7 +68,7 @@ export default function Blog() {
                                 <div className="card-footer p-4 pt-0 bg-transparent border-top-0">
                                     <div className="d-flex align-items-end justify-content-between">
                                         <div className="d-flex align-items-center">
-                                            <Image src={"/testimonialprofile.png"} alt={""} width={40} height={40} className="rounded-circle me-3" />
+                                            <Image src={"/40x40.png"} alt={""} width={40} height={40} className="rounded-circle me-3" />
                                             <div className="small">
                                                 <div className="fw-bold">Evelyn Martinez</div>
                                                 <div className="text-muted">April 2, 2022 · 10 min read</div>
